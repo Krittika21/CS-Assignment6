@@ -1,0 +1,7 @@
+C:\Users\krittika\source\repos\CalculationLinQ\CalculationLinQ\obj\Debug\CalculationLinQ.csprojAssemblyReference.cache
+C:\Users\krittika\source\repos\CalculationLinQ\CalculationLinQ\obj\Debug\CalculationLinQ.csproj.CoreCompileInputs.cache
+C:\Users\krittika\source\repos\CalculationLinQ\CalculationLinQ\bin\Debug\CalculationLinQ.exe.config
+C:\Users\krittika\source\repos\CalculationLinQ\CalculationLinQ\bin\Debug\CalculationLinQ.exe
+C:\Users\krittika\source\repos\CalculationLinQ\CalculationLinQ\bin\Debug\CalculationLinQ.pdb
+C:\Users\krittika\source\repos\CalculationLinQ\CalculationLinQ\obj\Debug\CalculationLinQ.exe
+C:\Users\krittika\source\repos\CalculationLinQ\CalculationLinQ\obj\Debug\CalculationLinQ.pdb
